@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy Bypass -Command ".\MetroForSteamUpdate.ps1"
