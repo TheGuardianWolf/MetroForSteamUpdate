@@ -6,3 +6,6 @@ Retrieves the latest metro for steam skin.
 2. Run the cmd script as admin.
 3. ???
 4. Profit.
+
+# Compatiblity
+For now this only supports Windows 10 (most likely).
