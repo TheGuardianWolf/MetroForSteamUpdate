@@ -8,4 +8,4 @@ Retrieves the latest metro for steam skin.
 4. Profit.
 
 # Compatiblity
-For now this only supports Windows 10 (most likely).
+Supports down to Powershell 1.0 if you have .NET framework installed.
